@@ -1,2 +1,3 @@
 # Professional-Certifications
-Repositorio dedicado a almacenar y documentar mis profesionales, incluyendo certificaciones credenciales verificables, certificados oficiales de plataformas en PDF y enlaces como Credly, AWS Academy y otras.
+Colección organizada de mis certificaciones técnicas y profesionales, con enlaces verific de habilidades enables y evidencia áreas como cloud, data engineering, desarrollo y tecnologías emergentes.
+
